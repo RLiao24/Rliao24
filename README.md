@@ -1,4 +1,9 @@
-### Hi there 👋
+### README.md:
+#### I have previously learned the basics of javascript, java, and html through an online course
+#### I am taking this CS class because I want to learn more about computer science
+#### My other interests include: cross country, robotics, and tennis
+#### My goal for this class is to do well in class and on the AP exam
+#### Pronouns: He/him/his
 
 <!--
 **RLiao24/Rliao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
